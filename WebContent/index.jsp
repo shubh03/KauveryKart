@@ -10,6 +10,7 @@
 <body>
 <form action="in" method="get" >
 <h1><%=request.getServletContext().getInitParameter("name")  %></h1>
+<a href="registration.jsp">Register here</a>
 </form>
 
 </body>

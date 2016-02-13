@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+<form action="">
 <%=request.getAttribute("sucess")  %>
+<a href="login.jsp">Login here</a>
+</form>
 </body>
 </html>
