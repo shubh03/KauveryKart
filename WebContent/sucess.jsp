@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="">
-<%=request.getAttribute("sucess")  %>
+<%=request.getAttribute("sucess")  %><br>
 <a href="login.jsp">Login here</a>
 </form>
 </body>
